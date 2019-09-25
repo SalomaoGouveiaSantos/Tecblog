@@ -1,0 +1,23 @@
+/*Limpar formatações padrão*/
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+#area-cabeçalho {
+	text-align: center;
+	background: orange;
+	border: 1px solid orange;
+
+}
+
+#area-logo {
+ 
+}
+
